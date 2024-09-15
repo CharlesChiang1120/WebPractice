@@ -1,0 +1,11 @@
+# images
+images/
+
+# doc
+relativeDoc.txt
+
+# vscode
+.vscode/
+
+# DS_Stroe
+.DS_Store
